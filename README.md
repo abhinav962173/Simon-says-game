@@ -1,3 +1,4 @@
+<div align="center">
 
 # 🎮 Simon Says Game
 
@@ -84,4 +85,3 @@ Simon-says-game/
 ⭐ **Star this repo if you enjoyed the game!** ⭐
 
 </div>
->>>>>>> 2663291 (Initial Commit)
